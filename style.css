@@ -1,0 +1,20 @@
+.linha_subtitulo{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+.titulo_valor{
+    margin-right: 60px;
+}
+
+.linha_subtitulo_Gerenciador_preço{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+.input_Gerenciador_preço{
+    margin-right: 20px;
+}
+
